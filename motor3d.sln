@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestMotor3D", "TestMotor3D\TestMotor3D.vbproj", "{DA6D5454-A18A-4414-AFDA-40EA1BC5D586}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Motor3D", "motor3d\Motor3D.vbproj", "{7EA3A50C-3EDE-45E9-BC54-D94E942FED96}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dx_Lib32Wrapper", "Dx_Lib32Wrapper\Dx_Lib32Wrapper.vbproj", "{1AF477E8-C2DF-41D8-8AB6-BBAE2FFD72DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6D5454-A18A-4414-AFDA-40EA1BC5D586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6D5454-A18A-4414-AFDA-40EA1BC5D586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6D5454-A18A-4414-AFDA-40EA1BC5D586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6D5454-A18A-4414-AFDA-40EA1BC5D586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA3A50C-3EDE-45E9-BC54-D94E942FED96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA3A50C-3EDE-45E9-BC54-D94E942FED96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA3A50C-3EDE-45E9-BC54-D94E942FED96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA3A50C-3EDE-45E9-BC54-D94E942FED96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF477E8-C2DF-41D8-8AB6-BBAE2FFD72DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF477E8-C2DF-41D8-8AB6-BBAE2FFD72DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF477E8-C2DF-41D8-8AB6-BBAE2FFD72DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF477E8-C2DF-41D8-8AB6-BBAE2FFD72DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
